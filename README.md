@@ -1,6 +1,6 @@
 # PasseioGaturno_game_Python
 
-<div class="bloco_info">
+<div>
             <img id="imagem" src="2.png" width="100%" alt="Imagem" />
         </div>
 
